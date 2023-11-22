@@ -1,5 +1,5 @@
 const nameGirl = 'Em';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/profile.php?id=100037947892895';
 const eventName = 'Chúc Mừng sinh nhật';
 const titleCard = 'Tặng em gái';
 const contentCard = 'Chúc em của anh sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
